@@ -1,0 +1,10 @@
+{
+  "user": [
+    {
+      "userId": "example",
+      "password": "password",
+      "name": "예시",
+      "email": "example123@example.com"
+    }
+  ]
+}
