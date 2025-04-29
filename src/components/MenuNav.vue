@@ -6,5 +6,6 @@
     <button class="">회원정보 수정</button>
   </div>
 </template>
-<script></script>
-<style></style>
+<scirpt>
+
+</scirpt>

@@ -1,10 +1,17 @@
 {
-  "user": [
+  "users": [
     {
       "userId": "example",
       "password": "password",
       "name": "예시",
       "email": "example123@example.com"
+    },
+    {
+      "id": 2,
+      "userId": "example1",
+      "password": "1234",
+      "name": "예시2",
+      "email": "exmaple1234@example.com"
     }
   ]
 }
